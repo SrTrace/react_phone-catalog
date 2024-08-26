@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0a622b95.css",
+    "main.js": "./static/js/main.89596b68.js",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
+    "static/media/banner-phones.png": "./static/media/banner-phones.f509ad3c8ed651749cb5.png",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.6a3884f3f1091702f8ed.png",
+    "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/page-not-found.png": "./static/media/page-not-found.6f5b123471bc09721371.png",
+    "static/media/category-tablets.webp": "./static/media/category-tablets.b33c1739317f62b284f9.webp",
+    "static/media/category-accessories.webp": "./static/media/category-accessories.bcfeec05ec76fb687f51.webp",
+    "static/media/icons.svg": "./static/media/icons.bd3e644189acab4839eb60a0cadf1e7b.svg",
+    "static/media/category-phones.webp": "./static/media/category-phones.7dfccacbf08890845843.webp",
+    "index.html": "./index.html",
+    "main.0a622b95.css.map": "./static/css/main.0a622b95.css.map",
+    "main.89596b68.js.map": "./static/js/main.89596b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a622b95.css",
+    "static/js/main.89596b68.js"
+  ]
+}
